@@ -146,3 +146,54 @@
 | heute | today | schon | already |
 | so | so | Vielen Dank! | thank you very much! |
 | vielleicht | maybe | zu zweit/dritt/viert | in pairs / threes / fours |
+
+---
+
+### A1. Kapitel 4 – Einen Kaffee, bitte (A Coffee, Please)
+
+| Nomen: ||||
+|:---|:---|:---|:---|
+| der Apfel, Äpfel | apple | die Banane, -n | banana |
+| die Bedienung, -en | service | die Brezel, -n | pretzel |
+| das Brot, -e | bread | das Brötchen, | bread roll |
+| das Café, -s | café | der Cent, -s | cent |
+| der Durst (Sg.) | thirst | das Ei, -er | egg |
+| das Essen, | food | der Euro, -s | euro |
+| das Fest, -e | festival, celebration | der Freund, -e | friend |
+| der Gast, Gäste | guest | das Getränk, -е | drink |
+| das Glas, Gläser | glass | der Hunger (Sg.) | hunger |
+| der Kaffee, -s | coffee | der Kakao, -s | cocoa |
+| der Kuchen, | cake | die Limo, -s | lemonade |
+| die Liste, -n | list | die Milch (Sg.) | milk |
+| das Müsli, -s | muesli | die Rechnung, -en | bill, check |
+| der Saft, Säfte | juice | die Speisekarte, -n | menu |
+| die Tasse, -n | cup | der Tee, -s | tea |
+| der Teller, | plate | der Termin, -e | appointment |
+| die Tomate, -n | tomato | das Wasser (Sg.) | water |
+| das Würstchen, - | sausage | der Zucker (Sg.) | sugar |
+
+---
+
+| Verben: ||||
+|:---|:---|:---|:---|
+| brauchen | need | essen | eat |
+| gehen (Wie geht's?) | go (How are you?) | kosten | cost |
+| möchten | would like | trinken | drink |
+| vorbereiten | prepare | zahlen | pay |
+
+---
+
+| Adjektive: ||||
+|:---|:---|:---|:---|
+| alleine | alone | frei | free |
+| lecker | tasty | müde | tired |
+| rund | round | super | great |
+| toll | wonderful | zusammen - getrennt | together - separately |
+
+---
+
+| andere Wörter: ||||
+|:---|:---|:---|:---|
+| alles - etwas | everything - something | gern(e) | gladly |
+| leider | unfortunately | mehr | more |
+| sehr | very | zuerst - später | first - later |
