@@ -197,3 +197,53 @@
 | alles - etwas | her şey - biraz | gern(e) | memnuniyetle |
 | leider | ne yazık ki | mehr | daha fazla |
 | sehr | çok | zuerst - später | önce - sonra |
+
+---
+
+### A1. Kapitel 5 – Die Woche von Familie Berger (Berger Ailesinin Haftası)
+
+| Nomen: ||||
+|:---|:---|:---|:---|
+| der Abend, -e | akşam | der Alltag (Sg.) | günlük hayat |
+| die Arbeit, -en | iş | die E-Mail, -s | e-posta |
+| der Film, -e | film | die Freizeit (Sg.) | boş zaman |
+| das Frühstück, -e | kahvaltı | der Fußball, -bälle | futbol |
+| der Kalender, - | takvim | das Kino, -s | sinema |
+| der Mittag, -e | öğle | der Montag, -e | pazartesi |
+| Dienstag/Mittwoch/Donnerstag/Freitag/Samstag/Sonntag | salı/çarşamba/perşembe/cuma/cumartesi/pazar | der Morgen, - | sabah |
+| die Musik (Sg.) | müzik | der Nachmittag, -e | öğleden sonra |
+| die Nacht, Nächte | gece | das Picknick, -s | piknik |
+| der Sport (Sg.) | spor | die Stunde, -n | saat |
+| die Uhr, -en | saat | der Vormittag, -e | sabah (öğlene kadar) |
+| die Wäsche (Sg.) | çamaşır | die Woche, -n | hafta |
+| das Wochenende, -n | hafta sonu | die Wohnung, -en | daire |
+| die Zeit, -en | zaman | | |
+
+---
+
+| Verben: ||||
+|:---|:---|:---|:---|
+| anrufen, ruft an | aramak | aufräumen, räumt auf | toplamak |
+| aufstehen, steht auf | kalkmak | beginnen | başlamak |
+| besuchen | ziyaret etmek | dauern | sürmek |
+| einkaufen, kauft ein | alışveriş yapmak | einladen, lädt ein | davet etmek |
+| fahren, fährt | gitmek / sürmek | fernsehen, sieht fern | televizyon izlemek |
+| frühstücken | kahvaltı yapmak | kochen | yemek pişirmek |
+| putzen | temizlemek | schlafen, schläft | uyumak |
+| sehen, sieht | görmek | tanzen | dans etmek |
+| telefonieren | telefonla konuşmak | träumen | hayal etmek |
+| waschen, wäscht | yıkamak | zoomen | Zoom kullanmak |
+
+---
+
+| Adjektive: ||||
+|:---|:---|:---|:---|
+| früh - spät | erken - geç | geöffnet - geschlossen | açık - kapalı |
+
+---
+
+| andere Wörter: ||||
+|:---|:---|:---|:---|
+| nie - oft | asla - sık sık | nur | sadece |
+| später | sonra | von ... bis | ...'den ...'e kadar |
+| wann? | ne zaman? | wie lange? | ne kadar süre? |

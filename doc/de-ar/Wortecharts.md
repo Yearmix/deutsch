@@ -197,3 +197,53 @@
 | alles - etwas | كل شيء - شيء | gern(e) | بسرور |
 | leider | للأسف | mehr | أكثر |
 | sehr | جداً | zuerst - später | أولاً - لاحقاً |
+
+---
+
+### A1. Kapitel 5 – Die Woche von Familie Berger (أسبوع عائلة بيرجر)
+
+| Nomen: ||||
+|:---|:---|:---|:---|
+| der Abend, -e | المساء | der Alltag (Sg.) | الحياة اليومية |
+| die Arbeit, -en | العمل | die E-Mail, -s | البريد الإلكتروني |
+| der Film, -e | فيلم | die Freizeit (Sg.) | وقت الفراغ |
+| das Frühstück, -e | الإفطار | der Fußball, -bälle | كرة القدم |
+| der Kalender, - | التقويم | das Kino, -s | السينما |
+| der Mittag, -e | الظهر | der Montag, -e | الاثنين |
+| Dienstag/Mittwoch/Donnerstag/Freitag/Samstag/Sonntag | الثلاثاء/الأربعاء/الخميس/الجمعة/السبت/الأحد | der Morgen, - | الصباح |
+| die Musik (Sg.) | الموسيقى | der Nachmittag, -e | بعد الظهر |
+| die Nacht, Nächte | الليل | das Picknick, -s | نزهة |
+| der Sport (Sg.) | الرياضة | die Stunde, -n | ساعة |
+| die Uhr, -en | الساعة | der Vormittag, -e | قبل الظهر |
+| die Wäsche (Sg.) | الغسيل | die Woche, -n | الأسبوع |
+| das Wochenende, -n | عطلة نهاية الأسبوع | die Wohnung, -en | الشقة |
+| die Zeit, -en | الوقت | | |
+
+---
+
+| Verben: ||||
+|:---|:---|:---|:---|
+| anrufen, ruft an | يتصل | aufräumen, räumt auf | يرتب |
+| aufstehen, steht auf | يستيقظ | beginnen | يبدأ |
+| besuchen | يزور | dauern | يستغرق |
+| einkaufen, kauft ein | يتسوق | einladen, lädt ein | يدعو |
+| fahren, fährt | يقود / يذهب | fernsehen, sieht fern | يشاهد التلفاز |
+| frühstücken | يتناول الإفطار | kochen | يطبخ |
+| putzen | ينظف | schlafen, schläft | ينام |
+| sehen, sieht | يرى | tanzen | يرقص |
+| telefonieren | يتحدث بالهاتف | träumen | يحلم |
+| waschen, wäscht | يغسل | zoomen | يستخدم زووم |
+
+---
+
+| Adjektive: ||||
+|:---|:---|:---|:---|
+| früh - spät | مبكر - متأخر | geöffnet - geschlossen | مفتوح - مغلق |
+
+---
+
+| andere Wörter: ||||
+|:---|:---|:---|:---|
+| nie - oft | أبداً - غالباً | nur | فقط |
+| später | لاحقاً | von ... bis | من ... إلى ... |
+| wann? | متى؟ | wie lange? | كم المدة؟ |
