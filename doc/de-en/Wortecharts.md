@@ -96,3 +96,53 @@
 
 ---
 
+### A1. Kapitel 3 – Wie heiße das auf Deutsch (What is this called in German)
+
+| Nomen: ||||
+|:---|:---|:---|:---|
+| das Auto, -s | car | der Bahnhof, -höfe | train station |
+| der Bildschirm, -e | screen | die Brille, -n | glasses |
+| das Buch, Bücher | book | der Computer, - | computer |
+| das Fahrrad, Fahrräder | bicycle | das Fenster, - | window |
+| die Flasche, -n | bottle | das Geld (Sg.) | money |
+| das Glas, Gläser | glass | das Handy, -s | mobile phone |
+| das Haus, Häuser | house | das Heft, -e | notebook |
+| der Hund, -e | dog | die Jacke, -n | jacket |
+| der Kaffee, -s | coffee | die Katze, -n | cat |
+| der Kuli, -s | pen | die Lampe, -n | lamp |
+| der Laptop, -s | laptop | die Maus, Mäuse | mouse |
+| die Notiz, -en | note | der Rucksack, -säcke | backpack |
+| die Schere, -n | scissors | der Schlüssel, - | key |
+| die Schule, -n | school | der Stift, -e | pencil, pen |
+| der Stuhl, Stühle | chair | das Tablet, -s | tablet |
+| die Tafel, -n | board | die Tasche, -n | bag |
+| der Teller, - | plate | der Tisch, -e | table |
+| die Tür, -en | door |  |  |
+
+---
+
+| Verben: ||||
+|:---|:---|:---|:---|
+| ansehen | to look at | arbeiten | to work |
+| funktionieren | to function | informieren | to inform |
+| leben | to live | wechseln | to change |
+| wissen | to know | zeigen | to show |
+
+---
+
+| Adjektive: ||||
+|:---|:---|:---|:---|
+| fertig | ready | freundlich | friendly |
+| kaputt | broken | kurz | short |
+| lang | long | langsam | slow |
+| schnell | fast | richtig | correct |
+| falsch | wrong | wichtig | important |
+
+---
+
+| Andere Wörter: ||||
+|:---|:---|:---|:---|
+| alle | everyone | gern | gladly |
+| heute | today | schon | already |
+| so | so | Vielen Dank! | thank you very much! |
+| vielleicht | maybe | zu zweit/dritt/viert | in pairs / threes / fours |

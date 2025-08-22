@@ -93,3 +93,56 @@
 | ein bisschen | قليلًا | nicht | لا |
 | für | لأجل | ohne | بدون |
 | wann? | متى؟ | was? | ماذا؟ |
+
+---
+
+### A1. Kapitel 3 – Wie heiße das auf Deutsch (ما هذا بالألمانية)
+
+| Nomen: ||||
+|:---|:---|:---|:---|
+| das Auto, -s | سيارة | der Bahnhof, -höfe | محطة قطار |
+| der Bildschirm, -e | شاشة | die Brille, -n | نظارة |
+| das Buch, Bücher | كتاب | der Computer, - | حاسوب |
+| das Fahrrad, Fahrräder | دراجة | das Fenster, - | نافذة |
+| die Flasche, -n | زجاجة | das Geld (Sg.) | مال |
+| das Glas, Gläser | كأس | das Handy, -s | هاتف محمول |
+| das Haus, Häuser | منزل | das Heft, -e | دفتر |
+| der Hund, -e | كلب | die Jacke, -n | سترة |
+| der Kaffee, -s | قهوة | die Katze, -n | قطة |
+| der Kuli, -s | قلم | die Lampe, -n | مصباح |
+| der Laptop, -s | حاسوب محمول | die Maus, Mäuse | فأرة |
+| die Notiz, -en | ملاحظة | der Rucksack, -säcke | حقيبة ظهر |
+| die Schere, -n | مقص | der Schlüssel, - | مفتاح |
+| die Schule, -n | مدرسة | der Stift, -e | قلم |
+| der Stuhl, Stühle | كرسي | das Tablet, -s | جهاز لوحي |
+| die Tafel, -n | سبورة | die Tasche, -n | حقيبة |
+| der Teller, - | طبق | der Tisch, -e | طاولة |
+| die Tür, -en | باب |  |  |
+
+---
+
+| Verben: ||||
+|:---|:---|:---|:---|
+| ansehen | ينظر | arbeiten | يعمل |
+| funktionieren | يعمل (وظيفة) | informieren | يعلِم / يُخبر |
+| leben | يعيش | wechseln | يغير |
+| wissen | يعرف | zeigen | يوضح / يظهر |
+
+---
+
+| Adjektive: ||||
+|:---|:---|:---|:---|
+| fertig | جاهز | freundlich | ودود |
+| kaputt | معطل | kurz | قصير |
+| lang | طويل | langsam | بطيء |
+| schnell | سريع | richtig | صحيح |
+| falsch | خطأ | wichtig | مهم |
+
+---
+
+| Andere Wörter: ||||
+|:---|:---|:---|:---|
+| alle | الجميع | gern | بكل سرور |
+| heute | اليوم | schon | بالفعل |
+| so | هكذا | Vielen Dank! | شكراً جزيلاً |
+| vielleicht | ربما | zu zweit/dritt/viert | لشخصين / ثلاثة / أربعة |

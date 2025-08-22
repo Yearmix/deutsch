@@ -1,95 +1,148 @@
-## A1. Kapitel 1 – Herzlich willkommen (Добро пожаловать)
+### A1. Kapitel 1 – Herzlich willkommen (Добро пожаловать)
 
 | Nomen: ||||
 |:---|:---|:---|:---|
-| die Adresse, -n | адрес, адреса | der Kurs, -e | курс, курсы |
-| die Anmeldung, -en | регистрация, запись | das Land, Länder | страна, страны |
-| die Antwort, -en | ответ, ответы | die Musik (Sg.) | музыка |
-| die Familie, -n | семья, семьи | der Name, -n | имя, имена |
-| der Familienname, -n | фамилия, фамилии | die Nummer, -n | номер, номера |
-| die Firma, Firmen | фирма, фирмы | der Ort, -e | место; населённый пункт |
-| das Formular, -e | бланк, форма | der Papa, -s | папа, папы |
-| das Foto, -s | фото, фотографии | die Mama, -s | мама, мамы |
-| die Frage, -n | вопрос, вопросы | die Person, -en | человек, персона |
-| Frau/Herr | госпожа / господин | die Postleitzahl, -en | почтовый индекс |
-| die Hausnummer, -n | номер дома | der Satz, Sätze | предложение |
-| der Irak | Ирак | die Stadt, Städte | город, города |
-| die Straße, -n | улица, улицы | die Telefonnummer, -n | телефонный номер |
-| der Vorname, -n | имя (первое) | die Zahl, -en | число, числа |
+| die Adresse, -n | адрес | die Anmeldung, -en | регистрация |
+| die Antwort, -en | ответ | die Familie, -n | семья |
+| der Familienname, -n | фамилия | die Firma, Firmen | фирма |
+| das Formular, -e | форма | das Foto, -s | фотография |
+| die Frage, -n | вопрос | Frau/Herr (Keser) | госпожа / господин |
+| die Hausnummer, -n | номер дома | der Irak | Ирак |
+| der Kurs, -e | курс | das Land, Länder | страна |
+| die Musik (Sg.) | музыка | der Name, -n | имя |
+| die Nummer, -n | номер | der Ort, -e | место |
+| der Papa, -s | папа | die Mama, -s | мама |
+| die Person, -en | человек | die Postleitzahl, -en | почтовый индекс |
+| der Satz, Sätze | предложение | die Stadt, Städte | город |
+| die Straße, -n | улица | die Telefonnummer, -n | номер телефона |
+| der Vorname, -n | имя | die Zahl, -en | число |
 
 ---
 
 | Verben: ||||
 |:---|:---|:---|:---|
-| antworten | отвечать | lesen | читать |
-| begrüßen | приветствовать | sagen | говорить, сказать |
-| buchstabieren | произносить по буквам | schreiben | писать |
-| fragen | спрашивать | sein | быть |
-| heißen | называться | sprechen | говорить, разговаривать |
-| hören | слушать | vorstellen | представлять (себя/кого-то) |
-| kennen | знать | wiederholen | повторять |
-| kommen | приходить, приезжать | wohnen | жить, проживать |
+| antworten | отвечать | begrüßen | приветствовать |
+| buchstabieren | произносить по буквам | fragen | спрашивать |
+| heißen | называться | hören | слушать |
+| kennen | знать | kommen | приходить |
+| lesen | читать | sagen | говорить |
+| schreiben | писать | sein | быть |
+| sprechen | говорить | vorstellen | представлять |
+| wiederholen | повторять | wohnen | жить |
 
 ---
 
-| Andere Wörter: ||||
+| andere Wörter: ||||
 |:---|:---|:---|:---|
-| auf Wiedersehen | до свидания | jetzt | сейчас |
-| aus | из | und | и |
-| bitte | пожалуйста | wie | как |
-| danke | спасибо | Wie geht’s? | как дела? |
-| Entschuldigung! | извините! | wo | где |
-| in | в | woher | откуда |
+| auf Wiedersehen | до свидания | aus | из / от |
+| bitte | пожалуйста | danke | спасибо |
+| Entschuldigung! | извините! | in | в |
+| jetzt | сейчас | und | и |
+| wie | как | Wie geht's? | Как дела? |
+| WO | где | woher | откуда |
 
 ---
 
-## A1. Kapitel 2 – Kontakte (Контакты)
+### A1. Kapitel 2 – Kontakte (Контакты)
 
 | Nomen: ||||
 |:---|:---|:---|:---|
-| Arabisch | арабский язык | das Kind, -er | ребёнок, дети |
-| der Beruf, -e | профессия, профессии | der Koch, Köche | повар, повара |
-| das Bild, -er | картинка, картинки | die Köchin, -nen | повариха, поварихи |
-| Deutsch | немецкий язык | der Kontakt, -e | контакт, контакты |
-| der Deutschkurs, -e | курс немецкого языка | der Krankenpfleger, - | санитар, сиделка |
-| die E-Mail-Adresse, -n | электронный адрес | die Krankenschwester, -n | медсестра |
-| Englisch | английский язык | der Lehrer, - | учитель |
-| der Friseur, -e | парикмахер (муж.) | die Lehrerin, -nen | учительница |
-| die Friseurin, -nen | парикмахерша (жен.) | das Mädchen, - | девочка |
-| die Handynummer, -n | номер мобильного телефона | der Mitarbeiter, - | сотрудник |
-| die Homepage, -s | домашняя страница | die Mitarbeiterin, -nen | сотрудница |
-| der Informatiker, - | программист (муж.) | der Moment, -e | момент |
-| die Informatikerin, -nen | программистка (жен.) | die Nachricht, -en | сообщение |
-| die Information, -en | информация | die Party, -s | вечеринка |
-| der Junge, -n | мальчик | der Polizist, -en | полицейский (муж.) |
-| das Problem, -e | проблема | die Polizistin, -nen | полицейская (жен.) |
-| das Restaurant, -s | ресторан | die Sprache, -n | язык, языки |
-| das Team, -s | команда, команды | die Tochter, Töchter | дочь, дочери |
-| der Verkäufer, - | продавец (муж.) | die Verkäuferin, -nen | продавщица |
-| das Wort, Wörter | слово, слова | der Zettel, - | записка, бумажка |
+| Arabisch | арабский | der Beruf, -e | профессия |
+| das Bild, -er | изображение | Deutsch | немецкий |
+| der Deutschkurs, -e | курс немецкого | die E-Mail-Adresse, -n | адрес электронной почты |
+| Englisch | английский | der Friseur, -e | парикмахер (мужчина) |
+| die Friseurin, -nen | парикмахер (женщина) | die Handynummer, -n | номер мобильного |
+| die Homepage, -s | домашняя страница | der Informatiker, - | IT-специалист (мужчина) |
+| die Informatikerin, -nen | IT-специалист (женщина) | die Information, -en | информация |
+| der Junge, -n | мальчик | das Kind, -er | ребёнок |
+| der Koch, Köche | повар (мужчина) | die Köchin, -nen | повар (женщина) |
+| der Kontakt, -e | контакт | der Krankenpfleger, - | медбрат |
+| die Krankenschwester, -n | медсестра | der Lehrer, - | учитель (мужчина) |
+| die Lehrerin, -nen | учительница | das Mädchen, - | девочка |
+| der Mitarbeiter, - | сотрудник | die Mitarbeiterin, -nen | сотрудница |
+| der Moment, -e | момент | die Nachricht, -en | сообщение |
+| die Party, -s | вечеринка | der Polizist, -en | полицейский |
+| die Polizistin, -nen | полицейская | das Problem, -e | проблема |
+| das Restaurant, -s | ресторан | die Sprache, -n | язык |
+| das Team, -s | команда | die Tochter, Töchter | дочь |
+| der Verkäufer, - | продавец | die Verkäuferin, -nen | продавщица |
+| das Wort, Wörter | слово | der Zettel, - | листок / записка |
 
 ---
 
 | Verben: ||||
 |:---|:---|:---|:---|
-| beantworten | отвечать | machen | делать |
-| haben | иметь | notieren | записывать |
-| lernen | учить, изучать | sprechen | говорить |
+| beantworten | отвечать | haben | иметь |
+| lernen | учить | machen | делать |
+| notieren | записывать | sprechen | говорить |
 
 ---
 
 | Adjektive: ||||
 |:---|:---|:---|:---|
-| gut | хороший | neu | новый |
-| laut | громкий | schön | красивый |
+| gut | хороший | laut | громкий |
+| neu | новый | schön | красивый |
+
+---
+
+| andere Wörter: ||||
+|:---|:---|:---|:---|
+| als (als Kind) | как (в детстве) | auch | тоже |
+| bei (bei Instagram) | при / на | ein bisschen | немного |
+| für | для | hier | здесь |
+| ja - nein | да - нет | minus | минус |
+| nicht | не | ohne | без |
+| Wann? | Когда? | Was? | Что? |
+
+---
+
+### A1. Kapitel 3 – Wie heiße das auf Deutsch (Как это называется на немецком)
+
+| Nomen: ||||
+|:---|:---|:---|:---|
+| das Auto, -s | машина | der Bahnhof, -höfe | вокзал |
+| der Bildschirm, -e | экран | die Brille, -n | очки |
+| das Buch, Bücher | книга | der Computer, - | компьютер |
+| das Fahrrad, Fahrräder | велосипед | das Fenster, - | окно |
+| die Flasche, -n | бутылка | das Geld (Sg.) | деньги |
+| das Glas, Gläser | стакан | das Handy, -s | мобильный телефон |
+| das Haus, Häuser | дом | das Heft, -e | тетрадь |
+| der Hund, -e | собака | die Jacke, -n | куртка |
+| der Kaffee, -s | кофе | die Katze, -n | кошка |
+| der Kuli, -s | ручка | die Lampe, -n | лампа |
+| der Laptop, -s | ноутбук | die Maus, Mäuse | мышь |
+| die Notiz, -en | заметка | der Rucksack, -säcke | рюкзак |
+| die Schere, -n | ножницы | der Schlüssel, - | ключ |
+| die Schule, -n | школа | der Stift, -e | карандаш, ручка |
+| der Stuhl, Stühle | стул | das Tablet, -s | планшет |
+| die Tafel, -n | доска | die Tasche, -n | сумка |
+| der Teller, - | тарелка | der Tisch, -e | стол |
+| die Tür, -en | дверь |  |  |
+
+---
+
+| Verben: ||||
+|:---|:---|:---|:---|
+| ansehen | смотреть | arbeiten | работать |
+| funktionieren | функционировать | informieren | информировать |
+| leben | жить | wechseln | менять |
+| wissen | знать | zeigen | показывать |
+
+---
+
+| Adjektive: ||||
+|:---|:---|:---|:---|
+| fertig | готовый | freundlich | дружелюбный |
+| kaputt | сломанный | kurz | короткий |
+| lang | длинный | langsam | медленный |
+| schnell | быстрый | richtig | правильный |
+| falsch | неправильный | wichtig | важный |
 
 ---
 
 | Andere Wörter: ||||
 |:---|:---|:---|:---|
-| als (als Kind) | как, в качестве (как ребёнок) | hier | здесь |
-| auch | тоже | ja – nein | да – нет |
-| bei (bei Instagram) | у, при (в Instagram) | minus | минус |
-| ein bisschen | немного | nicht | не |
-| für | для | ohne | без |
-| wann? | когда? | was? | что? |
+| alle | все | gern | с удовольствием |
+| heute | сегодня | schon | уже |
+| so | так | Vielen Dank! | большое спасибо! |
+| vielleicht | возможно | zu zweit/dritt/viert | вдвоем/втроем/вчетвером |
