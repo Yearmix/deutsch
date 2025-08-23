@@ -210,7 +210,7 @@
 | das Frühstück, -e | breakfast | der Fußball, -bälle | football/soccer |
 | der Kalender, - | calendar | das Kino, -s | cinema |
 | der Mittag, -e | noon | der Montag, -e | Monday |
-| Dienstag/Mittwoch/Donnerstag/Freitag/Samstag/Sonntag | Tuesday/Wednesday/Thursday/Friday/Saturday/Sunday | der Morgen, - | morning |
+| Dienstag/ Mittwoch/ Donnerstag/ Freitag/ Samstag/ Sonntag | Tuesday/Wednesday/Thursday/Friday/Saturday/Sunday | der Morgen, - | morning |
 | die Musik (Sg.) | music | der Nachmittag, -e | afternoon |
 | die Nacht, Nächte | night | das Picknick, -s | picnic |
 | der Sport (Sg.) | sport | die Stunde, -n | hour |

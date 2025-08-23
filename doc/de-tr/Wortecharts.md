@@ -210,7 +210,7 @@
 | das Frühstück, -e | kahvaltı | der Fußball, -bälle | futbol |
 | der Kalender, - | takvim | das Kino, -s | sinema |
 | der Mittag, -e | öğle | der Montag, -e | pazartesi |
-| Dienstag/Mittwoch/Donnerstag/Freitag/Samstag/Sonntag | salı/çarşamba/perşembe/cuma/cumartesi/pazar | der Morgen, - | sabah |
+| Dienstag/ Mittwoch/ Donnerstag/ Freitag/ Samstag/ Sonntag | salı/çarşamba/perşembe/cuma/cumartesi/pazar | der Morgen, - | sabah |
 | die Musik (Sg.) | müzik | der Nachmittag, -e | öğleden sonra |
 | die Nacht, Nächte | gece | das Picknick, -s | piknik |
 | der Sport (Sg.) | spor | die Stunde, -n | saat |

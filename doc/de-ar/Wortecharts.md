@@ -210,7 +210,7 @@
 | das Frühstück, -e | الإفطار | der Fußball, -bälle | كرة القدم |
 | der Kalender, - | التقويم | das Kino, -s | السينما |
 | der Mittag, -e | الظهر | der Montag, -e | الاثنين |
-| Dienstag/Mittwoch/Donnerstag/Freitag/Samstag/Sonntag | الثلاثاء/الأربعاء/الخميس/الجمعة/السبت/الأحد | der Morgen, - | الصباح |
+| Dienstag/ Mittwoch/ Donnerstag/ Freitag/ Samstag/ Sonntag | الثلاثاء/الأربعاء/الخميس/الجمعة/السبت/الأحد | der Morgen, - | الصباح |
 | die Musik (Sg.) | الموسيقى | der Nachmittag, -e | بعد الظهر |
 | die Nacht, Nächte | الليل | das Picknick, -s | نزهة |
 | der Sport (Sg.) | الرياضة | die Stunde, -n | ساعة |
