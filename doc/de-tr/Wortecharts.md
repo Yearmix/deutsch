@@ -247,3 +247,52 @@
 | nie - oft | asla - sık sık | nur | sadece |
 | später | sonra | von ... bis | ...'den ...'e kadar |
 | wann? | ne zaman? | wie lange? | ne kadar süre? |
+
+---
+
+### A1. Kapitel 6 – Das schmeckt gut! (Lezzetli!)
+
+| Nomen: ||||
+|:---|:---|:---|:---|
+| der Apfel, Äpfel | elma | die Banane, -n | muz |
+| das Besteck (Sg.) | çatal-bıçak takımı | die Blume, -n | çiçek |
+| die Butter (Sg.) | tereyağı | die Dose, -n | kutu, teneke |
+| das Ei, -er | yumurta | die Flasche, -n | şişe |
+| das Fleisch (Sg.) | et | das Frühstück, -e | kahvaltı |
+| die Gabel, -n | çatal | das Gemüse (Sg.) | sebze |
+| das Gramm, - | gram | der Joghurt, -s | yoğurt |
+| die Karotte, -n | havuç | die Kartoffel, -n | patates |
+| das Kilo, -s | kilo | der Kühlschrank, -schränke | buzdolabı |
+| das Lebensmittel, - | yiyecek | der Liter, - | litre |
+| der Löffel, - | kaşık | die Marmelade, -n | reçel |
+| die Menge, -n | miktar | das Messer, - | bıçak |
+| das Müsli, -s | müsli | der Nachtisch, -e | tatlı |
+| das Öl, -e | yağ | die Orange, -n | portakal |
+| die Packung, -en | paket | die Paprika, -s | dolmalık biber |
+| der Pilz, -e | mantar | der Reis (Sg.) | pirinç |
+| der Salat, -e | salata | die Serviette, -n | peçete |
+| das Stück, -e | parça | die Suppe, -n | çorba |
+| der Teller, - | tabak | die Tomate, -n | domates |
+| der Wein, -e | şarap | die Wurst, Würste | sosis |
+| die Zitrone, -n | limon | die Zwiebel, -n | soğan |
+
+---
+
+| Verben: ||||
+|:---|:---|:---|:---|
+| finden | bulmak | geben | vermek |
+| holen | almak, getirmek | mögen | sevmek |
+| nehmen | almak | schmecken | tadı olmak, lezzetli olmak |
+
+---
+
+| Adjektive: ||||
+|:---|:---|:---|:---|
+| leer | boş | teuer - günstig | pahalı - ucuz |
+
+---
+
+| andere Wörter: ||||
+|:---|:---|:---|:---|
+| etwas - nichts | bir şey - hiçbir şey | fast | neredeyse |
+| Guten Appetit! | Afiyet olsun! | Prost! | Şerefe! |
