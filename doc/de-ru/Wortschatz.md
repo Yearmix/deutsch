@@ -39,6 +39,8 @@
 | **Entschuldigung!** | извините! | **WO** | где |
 | **in** | в | **woher** | откуда |
 
+---
+
 ### A1. Kapitel 2 – Kontakte
 
 | **Nomen:** ||||
@@ -86,6 +88,8 @@
 | **ein bisschen** | немного | **ohne** | без |
 | **für** | для | **Wann?** | Когда? |
 | **hier** | здесь | **Was?** | Что? |
+
+---
 
 ### A1. Kapitel 3 – Wie heißt das auf Deutsch
 
@@ -135,6 +139,8 @@
 | **heute** | сегодня | **vielleicht** | возможно |
 | **schon** | уже | **zu zweit/dritt/viert** | вдвоём/втроём/вчетвером |
 
+---
+
 ### A1. Kapitel 4 – Einen Kaffee, bitte
 
 | **Nomen:** ||||
@@ -181,6 +187,8 @@
 | **etwas** | что-то | **sehr** | очень |
 | **gern(e)** | с удовольствием | **zuerst** | сначала |
 | **leider** | к сожалению | **später** | позже |
+
+---
 
 ### A1. Kapitel 5 – Die Woche von Familie Berger
 
@@ -229,6 +237,8 @@
 | **nur** | только | **wie lange?** | как долго? |
 | **später** | позже | **** |  |
 
+---
+
 ### A1. Kapitel 6 – Das schmeckt gut!
 
 | **Nomen:** ||||
@@ -274,6 +284,8 @@
 | **etwas** | что-то, немного | **fast** | почти |
 | **nichts** | ничего | **Guten Appetit!** | приятного аппетита! |
 
+---
+
 ### A1. Kapitel 7 – Meine Familie und ich
 
 | **Nomen:** ||||
@@ -318,6 +330,8 @@
 | **andere Wörter:** ||||
 |:---|:---|:---|:---|
 | **dort** | там | **endlich** | наконец |
+
+---
 
 ### A1. Kapitel 8 – Hier wohnen wir
 
@@ -369,6 +383,8 @@
 | **ein bisschen** | немного | **sehr** | очень |
 | **leider** | к сожалению | **wenig** | мало |
 
+---
+
 ### A1. Kapitel 9 – Endlich Freizeit
 
 | **Nomen:** ||||
@@ -414,6 +430,8 @@
 | **immer** | всегда | **oft** | часто |
 | **leider** | к сожалению | **selten** | редко |
 | **manchmal** | иногда | **** |  |
+
+---
 
 ### A1. Kapitel 10 – Neu hier?
 
@@ -462,6 +480,8 @@
 |:---|:---|:---|:---|
 | **hierher** | сюда | **dorthin** | туда |
 
+---
+
 ### A1. Kapitel 11 – Alles Gute!
 
 | **Nomen:** ||||
@@ -507,6 +527,8 @@
 |:---|:---|:---|:---|
 | **ab** | от, с | **Bescheid sagen** | сообщить |
 | **bei** | у, при | **** |  |
+
+---
 
 ### A1. Kapitel 12 – Unterwegs
 
@@ -555,6 +577,8 @@
 | **direkt** | прямо | **rechts** | справа |
 | **durch** | через | **unterwegs** | в пути |
 
+---
+
 ### A1. Kapitel 13 – Besserung!
 
 | **Nomen:** ||||
@@ -602,6 +626,8 @@
 | **hoffentlich** | надеюсь | **lieber** | лучше |
 | **gegen** | против | **ziemlich** | довольно |
 
+---
+
 ### A1. Kapitel 14 – Was kann ich für Sie tun?
 
 | **Nomen:** ||||
@@ -645,6 +671,8 @@
 | **denn** | потому что | **ohne** | без |
 | **eilig** | срочно | **normal** | нормальный |
 | **im Moment = zurzeit** | в данный момент | **seit** | с (какого-то времени) |
+
+---
 
 ### A1. Kapitel 15 – Ein Leben lang lernen
 
@@ -694,6 +722,8 @@
 | **gar nicht** | совсем нет | **zum Teil** | частично |
 | **gerade** | прямо, как раз | **zurück** | обратно |
 
+---
+
 ### A1. Kapitel 16 – Märkte
 
 | **Nomen:** ||||
@@ -740,6 +770,8 @@
 | **bestimmt** | определённо | **unten** | снизу |
 | **in der Mitte** | в центре | **pro Stunde** | в час |
 
+---
+
 ### A2. Kapitel 1 – Sind Sie neu hier?
 
 | **Nomen:** ||||
@@ -785,6 +817,8 @@
 | **für** | для | **vorbei** | мимо, прошло |
 | **LG (= Liebe Grüße)** | с любовью, с наилучшими пожеланиями | **vorher** | раньше |
 | **spätestens** | не позднее | **weil** | потому что |
+
+---
 
 ### A2. Kapitel 2 – Zusammen wohnen
 
@@ -834,6 +868,8 @@
 | **hinter** | за | **unter** | под |
 | **vor** | перед | **zwischen** | между |
 
+---
+
 ### A2. Kapitel 3 – Arbeit und Freizeit
 
 | **Nomen:** ||||
@@ -878,6 +914,8 @@
 |:---|:---|:---|:---|
 | **dass** | что | **schade** | жаль |
 | **im Voraus** | заранее | **Sport treiben** | заниматься спортом |
+
+---
 
 ### A2. Kapitel 4 – Was ziehe ich an?
 
@@ -924,6 +962,8 @@
 | **andere Wörter:** ||||
 |:---|:---|:---|:---|
 | **egal** | всё равно | **nachher** | потом |
+
+---
 
 ### A2. Kapitel 5 – Fahrrad, Auto oder Bus?
 
@@ -974,6 +1014,8 @@
 | **ab und zu** | время от времени | **wenn** | если |
 | **so … wie** | так … как | **zu Fuß** | пешком |
 
+---
+
 ### A2. Kapitel 6 – Eine Familie – viele Länder
 
 | **Nomen:** ||||
@@ -1016,6 +1058,8 @@
 |:---|:---|:---|:---|
 | **damals** | тогда | **mehrmals** | несколько раз |
 | **dringend** | срочно | **recht haben** | быть правым |
+
+---
 
 ### A2. Kapitel 7 – Wir machen einen Ausflug
 
@@ -1064,6 +1108,8 @@
 |:---|:---|:---|:---|
 | **dieser, dieses, diese** | этот, эта, это | **mitten in + Dativ** | в самом центре |
 
+---
+
 ### A2. Kapitel 8 – Auf nach Berlin!
 
 | **Nomen:** ||||
@@ -1108,6 +1154,8 @@
 |:---|:---|:---|:---|
 | **ca. = circa** | примерно | **geradeaus** | прямо |
 | **gegenüber** | напротив | **da vorne** | там впереди |
+
+---
 
 ### A2. Kapitel 9 – Eltern – Kinder – Schule
 
@@ -1155,6 +1203,8 @@
 | **hinten** | сзади | **links** | слева |
 | **vorne** | спереди | **rechts** | справа |
 
+---
+
 ### A2. Kapitel 10 – Zusammen geht es besser!
 
 | **Nomen:** ||||
@@ -1199,6 +1249,8 @@
 | **deshalb** | поэтому | **wenigstens** | хотя бы |
 | **miteinander** | вместе | **zu sein** | быть закрытым |
 
+---
+
 ### A2. Kapitel 11 – Alles digital?
 
 | **Nomen:** ||||
@@ -1242,6 +1294,8 @@
 |:---|:---|:---|:---|
 | **damit** | с этим, для этого | **überall** | везде |
 | **gratis** | бесплатно | **wahrscheinlich** | вероятно |
+
+---
 
 ### A2. Kapitel 12 – Das finde ich schön!
 
@@ -1288,6 +1342,8 @@
 |:---|:---|:---|:---|
 | **Wirklich?** | правда? | **unbedingt** | обязательно |
 
+---
+
 ### A2. Kapitel 13 – Handwerk hat Zukunft
 
 | **Nomen:** ||||
@@ -1333,6 +1389,8 @@
 |:---|:---|:---|:---|
 | **insgesamt** | в целом | **nun** | теперь |
 | **neulich** | недавно | **** |  |
+
+---
 
 ### A2. Kapitel 14 – Freundschaft
 
@@ -1381,6 +1439,8 @@
 | **genügend** | достаточный | **übermorgen** | послезавтра |
 | **irgendwie** | как-то | **wieso** | почему |
 
+---
+
 ### A2. Kapitel 15 – Ämter und Behörden
 
 | **Nomen:** ||||
@@ -1426,6 +1486,8 @@
 | **jedenfalls** | в любом случае | **ob** | ли |
 | **nirgends** | нигде | **zuletzt** | в конце, последнее |
 
+---
+
 ### A2. Kapitel 16 – Das feiern wir!
 
 | **Nomen:** ||||
@@ -1469,6 +1531,8 @@
 | **dafür** | за это | **wahrscheinlich** | вероятно |
 | **dagegen sein** | быть против | **trotzdem** | несмотря на это |
 | **einverstanden** | согласный | **** |  |
+
+---
 
 ### B1. Kapitel 1 – Neue Nachbarn
 
@@ -1516,6 +1580,8 @@
 | **erstens, zweitens, drittens…** | во-первых, во-вторых, в-третьих | **weshalb** | почему |
 | **im Freien** | на открытом воздухе | **zumindest** | по крайней мере |
 
+---
+
 ### B1. Kapitel 2 – Hier kaufe ich ein
 
 | **Nomen:** ||||
@@ -1560,6 +1626,8 @@
 |:---|:---|:---|:---|
 | **anscheinend** | по-видимому | **kein / nicht … sondern** | не … а |
 | **kürzlich** | недавно | **spätestens** | не позднее чем |
+
+---
 
 ### B1. Kapitel 3 – Wir sind für Sie da
 
@@ -1607,6 +1675,8 @@
 |:---|:---|:---|:---|
 | **erreichbar** | доступный, достигаемый | **obwohl** | хотя |
 
+---
+
 ### B1. Kapitel 4 – Schmeckt’s?
 
 | **Nomen:** ||||
@@ -1651,6 +1721,8 @@
 | **deshalb** | поэтому | **selber** | сам, самостоятельно |
 | **noch** | ещё | **trotzdem** | несмотря на это, всё же |
 
+---
+
 ### B1. Kapitel 5 – Jetzt verstehe ich das!
 
 | **Nomen:** ||||
@@ -1693,6 +1765,8 @@
 | **bis** | до | **seit / seitdem** | с тех пор, начиная с |
 | **dabei** | при этом, тем временем | **übrigens** | кстати |
 | **höchstens** | самое большее, максимум | **tabu** | табу, запрещённое |
+
+---
 
 ### B1. Kapitel 6 – Im Krankenhaus
 
@@ -1737,6 +1811,8 @@
 | **andere Wörter:** ||||
 |:---|:---|:---|:---|
 | **ab und zu** | время от времени | **nicht nur … sondern auch** | не только … но и |
+
+---
 
 ### B1. Kapitel 7 – Alles für die Umwelt
 
@@ -1784,6 +1860,8 @@
 |:---|:---|:---|:---|
 | **bisher** | до сих пор | **sonstig** | прочий, другой |
 
+---
+
 ### B1. Kapitel 8 – Kultur an der Ruhr
 
 | **Nomen:** ||||
@@ -1827,6 +1905,8 @@
 | **echt (interessant)** | действительно (интересный) | **wirklich (gut)** | действительно (хорошо) |
 | **ganz (gut/langweilig)** | довольно (хороший / скучный) | **ziemlich (langweilig)** | довольно (скучно) |
 | **meinetwegen** | как хочешь; по мне так пусть | **zugleich** | одновременно |
+
+---
 
 ### B1. Kapitel 9 – Ein neuer Job
 
@@ -1874,6 +1954,8 @@
 | **momentan** | сейчас, в данный момент | **vor allem** | прежде всего |
 | **vermutlich** | предположительно, вероятно | **** |  |
 
+---
+
 ### B1. Kapitel 10 – Sport macht Spaß
 
 | **Nomen:** ||||
@@ -1919,6 +2001,8 @@
 | **andere Wörter:** ||||
 |:---|:---|:---|:---|
 | **anderthalb** | полтора | **nebenbei** | между прочим; параллельно, попутно |
+
+---
 
 ### B1. Kapitel 11 – Mütter, Väter, Kinder
 
@@ -1966,6 +2050,8 @@
 |:---|:---|:---|:---|
 | **eher** | скорее, лучше | **irgendwer** | кто-то, какой-то человек |
 
+---
+
 ### B1. Kapitel 12 – Berufliche Anerkennung
 
 | **Nomen:** ||||
@@ -2011,6 +2097,8 @@
 | **einander** | друг другу | **Was für ein …?** | Что за …? |
 | **nachdem** | после того как | **zuvor** | ранее, прежде |
 
+---
+
 ### B1. Kapitel 13 – Freiwillig
 
 | **Nomen:** ||||
@@ -2054,6 +2142,8 @@
 | **ebenso** | также, так же | **wegen** | из-за, по причине |
 | **möglichst** | как можно (лучше, быстрее и т.д.) | **** |  |
 
+---
+
 ### B1. Kapitel 14 – Ein neues Zuhause
 
 | **Nomen:** ||||
@@ -2096,6 +2186,8 @@
 | **deswegen** | поэтому | **unterdessen** | тем временем |
 | **statt** | вместо | **vorläufig** | предварительно |
 | **sozusagen** | так сказать, условно говоря | **zunächst** | сначала, вначале |
+
+---
 
 ### B1. Kapitel 15 – Weltstadt Wien
 
@@ -2141,6 +2233,8 @@
 | **irgendwo** | где-то | **tatsächlich** | действительно, фактически |
 | **je ... desto** | чем … тем … | **** |  |
 
+---
+
 ### B1. Kapitel 16 – Hier bleibe ich
 
 | **Nomen:** ||||
@@ -2183,4 +2277,6 @@
 | **entweder … oder** | либо … либо | **solange** | пока, до тех пор пока |
 | **normalerweise** | обычно, как правило | **sowohl … als auch** | как … так и |
 | **jetzt oder nie** | сейчас или никогда | **weder … noch** | ни … ни |
+
+---
 
