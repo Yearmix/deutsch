@@ -1470,3 +1470,685 @@
 | **dagegen sein** | быть против | **trotzdem** | несмотря на это |
 | **einverstanden** | согласный | **** |  |
 
+### B1. Kapitel 1 – Neue Nachbarn
+
+| **Nomen:** ||||
+|:---|:---|:---|:---|
+| **der Abstellraum, -e** | кладовка, подсобное помещение | **die Neuigkeit, -en** | новость |
+| **der Bart, -e** | борода | **der Rasen** | газон |
+| **der Briefkasten, -"** | почтовый ящик | **das Recht, -e** | право |
+| **die Couch, -s / -en** | диван | **die Reinigung (Sg.)** | уборка, чистка |
+| **das Dach, -"er** | крыша | **die Rente, -n** | пенсия |
+| **die Einrichtung, -en** | обстановка, интерьер | **die Rücksicht (Sg.)** | внимание, уважение (к другим) |
+| **die Hausordnung, -en** | правила дома | **der Schmutz (Sg.)** | грязь |
+| **die Gaststätte, -n** | ресторан, кафе | **die Sicherheit, -en** | безопасность |
+| **die Innenstadt, -"e** | центр города | **der Staub (Sg.)** | пыль |
+| **der Lärm (Sg.)** | шум | **die Störung, -en** | помеха, нарушение |
+| **die Miete, -n** | аренда, квартплата | **das Treppenhaus, -"er** | лестничная клетка |
+| **die Mülltonne, -n** | мусорный бак | **die Vorschrift, -en** | предписание, правило |
+| **die Nähe (Sg.)** | близость | **die Wirtschaft, -en** | экономика; также: трактир |
+
+
+| **Verben:** ||||
+|:---|:---|:---|:---|
+| **abschließen** | запирать; заключать (договор) | **gucken** | смотреть (разг.) |
+| **annehmen** | принимать | **klingeln** | звонить (в звонок) |
+| **beruhigen** | успокаивать | **lassen** | позволять, оставлять |
+| **(sich) beschweren (bei + D über + A)** | жаловаться | **leihen** | одалживать / брать напрокат |
+| **einziehen** | въезжать в квартиру | **pflegen** | ухаживать |
+| **entsorgen** | утилизировать | **reinigen** | чистить, убирать |
+| **füttern** | кормить | **sinken / steigen** | снижаться / повышаться |
+| **gießen** | поливать | **trennen** | разделять |
+| **grüßen** | приветствовать | **vermeiden** | избегать |
+
+
+| **Adjektive:** ||||
+|:---|:---|:---|:---|
+| **anwesend** | присутствующий | **faul** | ленивый |
+| **ärgerlich** | неприятный, раздражающий | **notwendig** | необходимый |
+| **ernst** | серьёзный | **ständig** | постоянный |
+
+
+| **ebenfalls** | также | **mittlerweile** | тем временем, между тем |
+| **einerseits … andererseits** | с одной стороны … с другой стороны | **sowohl … als auch** | как … так и |
+| **erstens, zweitens, drittens…** | во-первых, во-вторых, в-третьих | **weshalb** | почему |
+| **im Freien** | на открытом воздухе | **zumindest** | по крайней мере |
+
+### B1. Kapitel 2 – Hier kaufe ich ein
+
+| **Nomen:** ||||
+|:---|:---|:---|:---|
+| **die Ausgabe, -n** | расход; выпуск (журнала) | **die Mahnung, -en** | напоминание, предупреждение (обычно о платеже) |
+| **der Betrag, -e** | сумма | **das Material, -ien** | материал |
+| **die Ecke, -n** | угол | **das Mehl** | мука |
+| **der Empfang, -e** | приём (сигнала/гостей); ресепшен | **die Metzgerei, -en** | мясная лавка |
+| **die Entfernung, -en** | расстояние | **der Ozean, -e** | океан |
+| **das Feld, -er** | поле | **die Reklamation, -en** | жалоба, претензия на товар |
+| **die Freude, -n** | радость | **der Rest, -e** | остаток |
+| **der Genuss, -"e** | наслаждение | **die Saison, -s/-en** | сезон |
+| **der Geschmack, -"e** | вкус | **das Sonderangebot, -e** | специальное предложение, акция |
+| **das Gewicht, -e** | вес | **die Tankstelle, -n** | заправка |
+| **der Händler, -** | торговец | **der Transport, -e** | транспортировка |
+| **der Kunde, -n** | клиент, покупатель | **die Umwelt** | окружающая среда |
+| **die Kundennummer, -n** | номер клиента | **die Ursache, -n** | причина |
+| **der Kundenservice** | служба поддержки | **die Ware, -n** | товар |
+| **die Lieferung, -en** | доставка | **der Wert, -e** | ценность, стоимость |
+| **das Loch, -"er** | дыра, отверстие | **die Zutat, -en** | ингредиент |
+
+
+| **Verben:** ||||
+|:---|:---|:---|:---|
+| **berechnen** | рассчитывать | **schonen** | беречь |
+| **bestätigen** | подтверждать | **überweisen** | переводить деньги |
+| **ernten** | собирать урожай | **überzeugen** | убеждать |
+| **garantieren** | гарантировать | **umtauschen** | обменивать |
+| **konsumieren** | потреблять | **verschwinden** | исчезать |
+| **reklamieren** | предъявлять претензию | **zustellen** | доставлять |
+
+
+| **Adjektive:** ||||
+|:---|:---|:---|:---|
+| **biologisch** | экологичный, органический | **gering** | небольшой, малый |
+| **dringend** | срочный | **gesamt** | общий |
+| **ehrlich / unehrlich** | честный / нечестный | **reif** | спелый |
+| **fern / nah** | далёкий / близкий | **sauer / süß** | кислый / сладкий |
+
+
+| **anscheinend** | по-видимому | **kein / nicht … sondern** | не … а |
+| **kürzlich** | недавно | **spätestens** | не позднее чем |
+
+### B1. Kapitel 3 – Wir sind für Sie da
+
+| **Nomen:** ||||
+|:---|:---|:---|:---|
+| **der Anspruch, -"e** | право, требование | **die Kündigung, -en** | расторжение, увольнение, отмена |
+| **das Bargeld** | наличные деньги | **die Mobilität** | мобильность |
+| **die Broschüre, -n** | брошюра | **der Notruf, -e** | экстренный вызов |
+| **der Dauerauftrag, -"e** | постоянное поручение (в банке) | **die Quittung, -en** | квитанция |
+| **der Einbrecher, -** | взломщик, грабитель | **der Rechtsanwalt, -"e** | адвокат |
+| **der Einbruch, -"e** | взлом, кража со взломом | **die Rechtsanwältin, -nen** | адвокат (жен.) |
+| **die Empfehlung, -en** | рекомендация | **der Schaden, -"en** | ущерб, вред |
+| **die Eröffnung, -en (eines Kontos)** | открытие (счёта) | **der Schutz** | защита |
+| **die Filiale, -n** | филиал | **die Summe, -n** | сумма |
+| **die Fläche, -n** | площадь | **das Taschengeld** | карманные деньги |
+| **der Geldautomat, -en** | банкомат | **die Überweisung, -en** | банковский перевод |
+| **das Girokonto, -en** | расчётный счёт | **der Verbraucher, -** | потребитель |
+| **die IBAN, -s** | номер международного банковского счёта | **die Verbraucherin, -nen** | потребительница |
+| **der Internetanschluss, -"e** | подключение к интернету | **der Verlust, -e** | потеря |
+| **der Kredit, -e** | кредит | **die Versicherung, -en** | страховка |
+| **die Kreditkarte, -n** | кредитная карта | **der Zeitpunkt, -e** | момент времени |
+
+
+| **Verben:** ||||
+|:---|:---|:---|:---|
+| **abheben** | снимать (деньги) | **entstehen** | возникать |
+| **akzeptieren** | принимать | **erstatten (Kosten)** | возмещать (расходы) |
+| **angeben** | указывать, сообщать | **erwarten** | ожидать |
+| **aufnehmen (einen Kredit)** | брать кредит | **senden** | отправлять |
+| **ausdrucken** | распечатывать | **sperren** | блокировать |
+| **beschädigen** | повреждать | **stehlen** | красть |
+| **einzahlen** | вносить деньги на счёт | **unterstützen** | поддерживать |
+
+
+| **Adjektive:** ||||
+|:---|:---|:---|:---|
+| **abhängig** | зависимый | **kompliziert** | сложный |
+| **dicht** | плотный, густой | **mobil** | мобильный |
+| **individuell** | индивидуальный | **sämtlich** | все без исключения |
+| **jährlich** | ежегодный | **zusätzlich** | дополнительный |
+| **komplett** | полный | **zuverlässig** | надёжный |
+
+
+| **erreichbar** | доступный, достигаемый | **obwohl** | хотя |
+
+### B1. Kapitel 4 – Schmeckt’s?
+
+| **Nomen:** ||||
+|:---|:---|:---|:---|
+| **die Arbeitswelt** | мир труда, рабочая сфера | **die Hälfte, -n** | половина |
+| **die Bedeutung, -en** | значение | **das Kilogramm** | килограмм |
+| **der Chip, -s** | чип | **die Lieblingsspeise, -n** | любимое блюдо |
+| **das Drittel** | треть | **die Mahlzeit, -en** | приём пищи |
+| **der Eindruck, -"e** | впечатление | **die Mehrheit, -en** | большинство |
+| **die Ernährung** | питание | **die Nuss, -"e** | орех |
+| **der Ernährungsberater, -** | консультант по питанию | **die Pasta** | паста, макароны |
+| **die Ernährungsberaterin, -nen** | консультант (жен.) по питанию | **das Rezept, -e** | рецепт |
+| **die Essgewohnheit, -en** | привычка питания | **das Sandwich, -s** | сэндвич |
+| **das Essverhalten** | поведение в питании | **der Snack, -s** | перекус |
+| **das Feedback, -s** | обратная связь | **der Teilnehmer, -** | участник |
+| **das Fertiggericht, -e** | готовое блюдо | **die Teilnehmerin, -nen** | участница |
+| **das Festessen** | праздничный ужин, пир | **das Tempo, -s** | темп, скорость |
+| **das Fotoalbum, -alben** | фотоальбом | **das Verhalten** | поведение |
+| **das Fett, -e** | жир | **der Zuhörer, -** | слушатель |
+| **die Gewohnheit, -en** | привычка | **die Zuhörerin, -nen** | слушательница |
+| **das Gewürz, -e** | специя | **der Zusammenhang, -"e** | связь, контекст |
+
+
+| **Verben:** ||||
+|:---|:---|:---|:---|
+| **abnehmen** | худеть, снижать вес | **verändern** | изменять |
+| **ändern** | менять | **verbessern** | улучшать |
+| **(sich) ernähren** | питаться | **verbrauchen** | потреблять, расходовать |
+| **fallen** | падать | **zubereiten** | готовить (еду) |
+| **teilnehmen (an + D.)** | участвовать | **zustimmen** | соглашаться |
+
+
+| **Adjektive:** ||||
+|:---|:---|:---|:---|
+| **allergisch (gegen)** | аллергичный (на что-то) | **spannend / langweilig** | увлекательный / скучный |
+| **berufstätig** | работающий, трудоустроенный | **schuld (sein)** | виноватый (быть виноватым) |
+| **deutlich** | отчётливый, ясный | **ungesund / gesund** | вредный / полезный (о еде, образе жизни) |
+
+
+| **deshalb** | поэтому | **selber** | сам, самостоятельно |
+| **noch** | ещё | **trotzdem** | несмотря на это, всё же |
+
+### B1. Kapitel 5 – Jetzt verstehe ich das!
+
+| **Nomen:** ||||
+|:---|:---|:---|:---|
+| **die Art, -en** | вид, тип, способ | **das Missverständnis, -se** | недоразумение |
+| **das Büfett, -s** | буфет, шведский стол | **die Panik** | паника |
+| **die Distanz, -en** | дистанция, расстояние | **die Politik** | политика |
+| **das Gegenteil, -e** | противоположность | **die Religion, -en** | религия |
+| **die Gelegenheit, -en** | возможность, шанс | **der Respekt** | уважение |
+| **die Herausforderung, -en** | вызов, трудная задача | **die Sorge, -n** | забота, тревога |
+| **der Konflikt, -e** | конфликт | **die Voraussetzung, -en** | условие, предпосылка |
+| **die Kultur, -en** | культура | **das Vorstellungsgespräch, -e** | собеседование |
+| **die Laune, -n** | настроение | **der Witz, -e** | шутка, анекдот |
+
+
+| **Verben:** ||||
+|:---|:---|:---|:---|
+| **(sich) amüsieren** | развлекаться | **gründen** | основывать |
+| **(sich) anstrengen** | напрягаться, прилагать усилия | **herunterladen** | скачивать |
+| **anwenden** | применять | **kritisieren** | критиковать |
+| **behalten** | удерживать, запоминать | **leisten** | выполнять, делать |
+| **bemerken** | замечать | **retten** | спасать |
+| **beschließen** | решать, принимать решение | **verzeihen** | прощать |
+
+
+| **Adjektive:** ||||
+|:---|:---|:---|:---|
+| **allmählich** | постепенно | **sauer** | сердитый, кислый |
+| **ängstlich / mutig** | боязливый / смелый | **schriftlich / mündlich** | письменный / устный |
+| **augenblicklich** | мгновенный, немедленный | **seltsam** | странный |
+| **ernsthaft** | серьёзный | **stolz** | гордый |
+| **gleichzeitig** | одновременно | **tolerant / intolerant** | терпимый / нетерпимый |
+| **mehrsprachig / einsprachig** | многоязычный / одноязычный | **üblich / unüblich** | обычный / необычный |
+| **merkwürdig** | странный | **ungewöhnlich** | необычный |
+| **optimistisch / pessimistisch** | оптимистичный / пессимистичный | **zufällig** | случайный |
+
+
+| **bis** | до | **seit / seitdem** | с тех пор, начиная с |
+| **dabei** | при этом, тем временем | **übrigens** | кстати |
+| **höchstens** | самое большее, максимум | **tabu** | табу, запрещённое |
+
+### B1. Kapitel 6 – Im Krankenhaus
+
+| **Nomen:** ||||
+|:---|:---|:---|:---|
+| **die Allergie, -n** | аллергия | **die Leiter, -n** | лестница |
+| **der Altenpfleger, -** | сиделка (мужчина), работник по уходу за пожилыми | **der Magen** | желудок |
+| **die Altenpflegerin, -nen** | сиделка (женщина) | **die Medizin** | медицина, лекарство |
+| **das Altersheim, -e** | дом престарелых | **die Narkose, -n** | наркоз |
+| **der Appetit** | аппетит | **die Notaufnahme, -n** | отделение неотложной помощи |
+| **der Arbeitgeber, -** | работодатель (мужчина) | **der Notfall, -"e** | экстренный случай |
+| **die Arbeitgeberin, -nen** | работодатель (женщина) | **der Patient, -en** | пациент (мужчина) |
+| **der Arzthelfer, -** | помощник врача | **die Patientin, -nen** | пациентка |
+| **die Arzthelferin, -nen** | помощница врача | **der Physiotherapeut, -en** | физиотерапевт (мужчина) |
+| **die Arztpraxis, -praxen** | врачебная практика, частный кабинет | **die Physiotherapeutin, -nen** | физиотерапевт (женщина) |
+| **die Baustelle, -n** | стройплощадка | **der Rollstuhl, -"e** | инвалидная коляска |
+| **die Diät, -en** | диета | **der Schichtdienst** | работа по сменам |
+| **die Einnahme, -n** | приём (лекарств) | **das Schlafmittel** | снотворное |
+| **die Entbindungsstation, -en** | родильное отделение | **der Schmerz, -en** | боль |
+| **die Entzündung, -en** | воспаление | **die Schulter, -n** | плечо |
+| **der Gips** | гипс | **die Spritze, -n** | шприц; укол |
+| **der Impfpass, -"e** | прививочный паспорт | **die Versichertenkarte, -n** | страховая карточка |
+| **die Impfung, -en** | прививка | **die Wunde, -n** | рана |
+
+
+| **Verben:** ||||
+|:---|:---|:---|:---|
+| **begleiten** | сопровождать | **operieren** | оперировать |
+| **betreuen** | заботиться, присматривать | **röntgen** | делать рентген |
+| **bluten** | кровоточить | **stürzen** | падать |
+| **(sich) etwas brechen** | сломать себе что-то | **sich verletzen (an + D.)** | пораниться (в/на чем-то) |
+| **geschehen** | происходить, случаться | **versorgen** | обеспечивать, ухаживать, перевязывать |
+| **massieren** | массировать | **wehtun** | причинять боль, болеть |
+
+
+| **Adjektive:** ||||
+|:---|:---|:---|:---|
+| **ansprechbar** | в сознании, реагирующий | **speziell** | специальный |
+| **schwach / stark** | слабый / сильный | **tief / hoch** | глубокий / высокий |
+
+
+| **ab und zu** | время от времени | **nicht nur … sondern auch** | не только … но и |
+
+### B1. Kapitel 7 – Alles für die Umwelt
+
+| **Nomen:** ||||
+|:---|:---|:---|:---|
+| **der Abfall, -"e** | мусор, отходы | **das Insekt, -en** | насекомое |
+| **die Alternative, -n** | альтернатива | **das Klima, Klimata** | климат |
+| **der Bauer, -n** | крестьянин, фермер | **die Kuh, -"e** | корова |
+| **die Bäuerin, -nen** | крестьянка, фермерша | **das Labor, -e** | лаборатория |
+| **die Biene, -n** | пчела | **die Mücke, -n** | комар |
+| **der Dreck** | грязь | **die Produktion, -en** | производство |
+| **die Einnahme, -n** | доход; поступление | **das Rind, -er** | крупный рогатый скот |
+| **die Erde** | земля (почва); Земля (планета) | **die Steckdose, -n** | розетка |
+| **der Experte, -n** | эксперт (муж.) | **der Stecker, -** | вилка (электрическая) |
+| **die Expertin, -nen** | эксперт (жен.) | **der Umweltschutz** | охрана окружающей среды |
+| **das Feuer** | огонь | **die Umweltverschmutzung, -en** | загрязнение окружающей среды |
+| **die Forschung, -en** | исследование, наука | **der Vortrag, -"e** | доклад, лекция |
+| **die Frucht, -"e** | плод, фрукт | **das Waschmittel** | стиральное средство |
+| **das Gift, -e** | яд | **die Wiese, -n** | луг |
+| **das Gras, -"er** | трава | **der Wissenschaftler, -** | ученый (муж.) |
+| **die Großstadt, -"e** | большой город, мегаполис | **die Wissenschaftlerin, -nen** | ученая (жен.) |
+| **der Hof, -"e** | двор; ферма | **der Zweifel, -** | сомнение |
+
+
+| **Verben:** ||||
+|:---|:---|:---|:---|
+| **atmen** | дышать | **schützen** | защищать |
+| **(sich etwas) anschaffen** | приобретать | **transportieren** | перевозить |
+| **aufheben** | поднимать; сохранять | **(sich) verabschieden** | прощаться |
+| **behaupten** | утверждать | **verbieten** | запрещать |
+| **blühen** | цвести | **verzichten (auf + A.)** | отказываться от чего-либо |
+| **heizen** | отапливать, топить | **wachsen** | расти |
+| **produzieren** | производить | **widersprechen** | возражать, противоречить |
+
+
+| **Adjektive:** ||||
+|:---|:---|:---|:---|
+| **elektrisch** | электрический | **schädlich** | вредный |
+| **global** | глобальный | **sinnlos / sinnvoll** | бессмысленный / осмысленный |
+| **grundsätzlich** | принципиальный; в принципе | **wahnsinnig** | безумный, очень сильный |
+| **ökologisch** | экологичный | **wertvoll** | ценный |
+
+
+| **bisher** | до сих пор | **sonstig** | прочий, другой |
+
+### B1. Kapitel 8 – Kultur an der Ruhr
+
+| **Nomen:** ||||
+|:---|:---|:---|:---|
+| **der Auftritt, -e** | выступление | **das Kostüm, -e** | костюм |
+| **die Batterie, -n** | батарейка | **der Künstler, -** | художник, артист |
+| **die Begeisterung** | восторг, воодушевление | **die Künstlerin, -nen** | художница, артистка |
+| **die Briefmarke, -n** | почтовая марка | **die Leistung, -en** | достижение, результат |
+| **der Cousin, -s** | двоюродный брат | **die Lieblingsbeschäftigung, -en** | любимое занятие |
+| **die Cousine, -n** | двоюродная сестра | **der Lieblingsverein, -e** | любимый клуб (спорт.) |
+| **der/die Einheimische, -n** | местный житель / местная жительница | **die Mayonnaise, -n** | майонез |
+| **der Enkel, -** | внук | **die Nachbarschaft, -en** | соседство; район проживания |
+| **die Enkelin, -nen** | внучка | **die Region, -en** | регион |
+| **die Enttäuschung, -en** | разочарование | **der Schauspieler, -** | актер |
+| **das Feuerzeug, -e** | зажигалка | **die Schauspielerin, -nen** | актриса |
+| **das Industriegebäude, -** | промышленное здание | **das Schulheft, -e** | школьная тетрадь |
+| **das Industriegebiet, -e** | промышленный район | **die Seife, -n** | мыло |
+| **das Jahrzehnt, -e** | десятилетие | **der Star, -s** | звезда (известный человек) |
+| **der Kaugummi, -s** | жевательная резинка | **das Streichholz, -"er** | спичка |
+| **der/das Ketchup** | кетчуп | **die Süßigkeit, -en** | сладости |
+| **die Kohle, -n** | уголь | **die Zigarette, -n** | сигарета |
+
+
+| **Verben:** ||||
+|:---|:---|:---|:---|
+| **(sich) aufregen** | волноваться, нервничать, раздражаться | **(sich) vorstellen** | представляться; представлять себе |
+
+
+| **Adjektive:** ||||
+|:---|:---|:---|:---|
+| **ehemalig** | бывший | **früher** | раньше, в прошлом |
+| **enttäuschend** | разочаровывающий | **regional/global** | региональный / глобальный |
+| **faszinierend** | захватывающий, впечатляющий | **sehenswert** | достойный просмотра, интересный |
+
+
+| **beziehungsweise (bzw.)** | соответственно; или; точнее | **super(spannend)** | супер(увлекательно) |
+| **dauernd** | постоянно | **total (gut)** | полностью, очень (хорошо) |
+| **davor** | перед этим; раньше | **überhaupt (nicht gut)** | вообще (не хорошо) |
+| **echt (interessant)** | действительно (интересный) | **wirklich (gut)** | действительно (хорошо) |
+| **ganz (gut/langweilig)** | довольно (хороший / скучный) | **ziemlich (langweilig)** | довольно (скучно) |
+| **meinetwegen** | как хочешь; по мне так пусть | **zugleich** | одновременно |
+
+### B1. Kapitel 9 – Ein neuer Job
+
+| **Nomen:** ||||
+|:---|:---|:---|:---|
+| **die Annonce, -n** | объявление | **das Praktikum, -a** | практика, стажировка |
+| **das Anschreiben, -** | сопроводительное письмо | **das Projekt, -e** | проект |
+| **die Anzeige, -n** | объявление (в газете / интернете), уведомление | **die Realität, -en** | реальность |
+| **die Arbeitsbedingungen (Pl.)** | условия труда | **die Schwäche, -n** | слабая сторона |
+| **der Bereich, -e** | область, сфера | **der Schwerpunkt, -e** | основная тема, профиль, акцент |
+| **das Computerprogramm, -e** | компьютерная программа | **die Stärke, -n** | сильная сторона |
+| **die EDV-Kenntnisse (Pl.)** | знания в области обработки данных, компьютерные навыки | **die Stelle, -n** | должность, место работы |
+| **das Gehalt, ⸚er** | зарплата | **die Stimmung, -en** | настроение, атмосфера |
+| **der Griff, -e** | ручка, хват; приёмы | **die Tätigkeit, -en** | деятельность |
+| **die Karrierechance, -n** | карьерная возможность | **das Team, -s** | команда |
+| **der Koch, ⸚e** | повар | **die Teilzeit** | неполная занятость |
+| **die Köchin, -nen** | повариха | **die Überstunde, -n** | сверхурочные часы |
+| **der Kontakt, -e** | контакт, связи | **das Unternehmen** | предприятие, фирма |
+| **der Lebenslauf, ⸚e** | резюме, биография | **der Verlag, -e** | издательство |
+| **die Leitung, -en** | руководство; линия (телефонная) | **die Werbeagentur, -en** | рекламное агентство |
+| **der Lieferant, -en** | поставщик | **die Wirklichkeit, -en** | действительность |
+| **der Mietpreis, -e** | стоимость аренды | **der Wunsch, ⸚e** | желание |
+
+
+| **Verben:** ||||
+|:---|:---|:---|:---|
+| **beherrschen** | владеть (навыками, языком) | **laufen (Wie läuft’s?)** | идти (о процессе) / Как дела? Как продвигается? |
+| **(sich) beschäftigen (mit + D.)** | заниматься чем-либо | **recht haben** | быть правым |
+| **(sich) bewerben (bei + D.)** | подавать заявление, устраиваться в (компанию) | **stimmen** | соответствовать, быть верным |
+| **gehen (um + A.)** | речь идёт о… | **verdienen** | зарабатывать |
+| **(sich) irren** | ошибаться | **wecken** | будить; пробуждать (интерес) |
+| **kennen** | знать | **(sich etwas) wünschen** | желать себе что-то |
+
+
+| **Adjektive:** ||||
+|:---|:---|:---|:---|
+| **derzeitig** | текущий, сегодняшний | **selbstständig** | самостоятельный; самозанятый |
+| **engagiert** | увлечённый, активный, вовлечённый | **überdurchschnittlich** | выше среднего |
+| **hungrig** | голодный | **technisch** | технический |
+| **mehrjährig** | многолетний | **unzufrieden** | недовольный |
+
+
+| **momentan** | сейчас, в данный момент | **vor allem** | прежде всего |
+| **vermutlich** | предположительно, вероятно | **** |  |
+
+### B1. Kapitel 10 – Sport macht Spaß
+
+| **Nomen:** ||||
+|:---|:---|:---|:---|
+| **die Abbildung, -en** | иллюстрация, изображение | **der Reporter, -** | репортёр |
+| **die Ausrede, -n** | отговорка | **die Reporterin, -nen** | репортёр (женщина) |
+| **die Erholung (Sg.)** | отдых, восстановление | **das Resultat, -e** | результат |
+| **der Fan, -s** | фанат | **die Runde, -n** | круг, раунд |
+| **der Fitnesstrainer, -** | фитнес-тренер | **der Sieger, -** | победитель |
+| **die Fitnesstrainerin, -nen** | фитнес-тренер (женщина) | **die Siegerin, -nen** | победительница |
+| **die Fußballmannschaft, -en** | футбольная команда | **die Sportart, -en** | вид спорта |
+| **das Hallenbad,** | крытый бассейн | **die Sporttasche, -n** | спортивная сумка |
+| **Handball (Sg.)** | гандбол | **die Tageskarte, -n** | дневной билет |
+| **das Inserat, -e** | объявление (в газете/онлайн) | **der Tennisschläger, -** | теннисная ракетка |
+| **die Jogginghose,** | спортивные/джоггер-штаны | **der Tormann, ⸚er** | вратарь (мужчина) |
+| **die Jury, -s** | жюри | **die Torfrau, -en** | вратарь (женщина) |
+| **der Katalog, -e** | каталог | **das Trikot, -s** | спортивная форма (майка) |
+| **der Läufer, -** | бегун | **die Turnhalle, -n** | спортзал |
+| **die Läuferin, -nen** | бегунья | **die Urkunde, -n** | грамота, сертификат |
+| **die Leichtathletik (Sg.)** | лёгкая атлетика | **der Veranstalter, -** | организатор |
+| **der Motorsport (Sg.)** | мотоспорт | **die Veranstalterin, -nen** | организатор (женщина) |
+| **der Profi, -s** | профессионал | **die Weltmeisterschaft, -en** | чемпионат мира |
+| **der Rekord, -e** | рекорд | **der Wettbewerb, -e** | соревнование, конкурс |
+| **das Rennen, -** | гонка | **** |  |
+
+
+| **Verben:** ||||
+|:---|:---|:---|:---|
+| **bestehen (aus + D.)** | состоять из | **siegen / verlieren** | побеждать / проигрывать |
+| **dabei sein** | участвовать, присутствовать | **tauchen** | нырять, заниматься дайвингом |
+| **drehen** | крутить, вращать; снимать фильм | **überreden** | уговаривать, убеждать |
+| **halten** | держать; соблюдать | **wetten** | спорить, держать пари |
+
+
+| **Adjektive:** ||||
+|:---|:---|:---|:---|
+| **begrenzt** | ограниченный | **kräftig** | сильный; крепкий |
+| **gleichberechtigt** | равноправный | **männlich / weiblich** | мужской / женский |
+| **großzügig** | щедрый | **zahlreich** | многочисленный |
+| **klassisch** | классический | **** |  |
+
+
+| **anderthalb** | полтора | **nebenbei** | между прочим; параллельно, попутно |
+
+### B1. Kapitel 11 – Mütter, Väter, Kinder
+
+| **Nomen:** ||||
+|:---|:---|:---|:---|
+| **der Antrag, ⸚e** | заявление, просьба | **der Lebensgefährte, -n** | партнёр по жизни (мужчина) |
+| **die Beziehung, -en** | отношение, связь, связь между людьми | **die Lebensgefährtin, -nen** | партнёр по жизни (женщина) |
+| **das Elterngeld (Sg.)** | пособие по уходу за ребёнком (финансовая поддержка для родителей) | **der Mangel, -** | нехватка, недостаток |
+| **die Elternzeit (Sg.)** | декретный отпуск | **die Metropole, -n** | крупный город, мегаполис |
+| **die Erfindung, -en** | изобретение | **die Minderheit, -en** | меньшинство |
+| **das Gefühl, -e** | чувство, эмоция | **der Mutterschutz (Sg.)** | охрана материнства (период и меры защиты) |
+| **der Gegensatz, ⸚e** | противоположность | **das Risiko, -en** | риск |
+| **die Gemeinde, -n** | община, муниципалитет | **die Rolle, -n** | роль |
+| **die Gleichberechtigung (Sg.)** | равноправие | **das Schaufenster, -** | витрина |
+| **der Hit, -s** | хит, популярная вещь/песня | **der Titel, -** | титул, название, звание |
+| **die Karriere, -n** | карьера | **die Trennung, -en** | разлука, расставание, разделение |
+| **die Kinderbetreuung (Sg.)** | уход за детьми, детский присмотр | **die Unterstützung (Sg.)** | поддержка |
+| **die Kindertagesstätte, -n** | детский сад, ясли | **die Verantwortung, -en** | ответственность |
+| **die Krise, -n** | кризис | **das Vergnügen (Sg.)** | удовольствие, радость |
+
+
+| **Verben:** ||||
+|:---|:---|:---|:---|
+| **abwaschen** | мыть посуду, смывать | **finanzieren** | финансировать |
+| **ankommen (auf + A.)** | зависеть от чего-то | **halten** | держать, соблюдать |
+| **aufgeben** | сдавать, отказываться, прекращать | **kleben** | приклеивать |
+| **aussteigen (aus dem Beruf)** | уходить с работы, покидать профессию | **(sich etwas) leisten** | позволить себе что-то |
+| **behandeln** | лечить, обращаться с кем-то | **loslassen** | отпускать |
+| **bleiben** | оставаться | **(sich etwas) teilen** | делить, делиться чем-то |
+| **brauchen** | нуждаться | **(sich) trennen** | расставаться, разделяться |
+| **bringen** | приносить | **verreisen** | уезжать в путешествие |
+| **durchfallen** | провалиться (на экзамене) | **versäumen** | пропустить, упустить |
+| **erziehen** | воспитывать | **wert sein** | стоить чего-то, иметь ценность |
+
+
+| **Adjektive:** ||||
+|:---|:---|:---|:---|
+| **alleinerziehend** | воспитывающий ребёнка один | **katholisch** | католический |
+| **evangelisch** | протестантский | **locker** | свободный, непринуждённый |
+| **finanziell** | финансовый | **realistisch** | реалистичный |
+| **gleichaltrig** | одного возраста | **vernünftig** | разумный |
+
+
+| **eher** | скорее, лучше | **irgendwer** | кто-то, какой-то человек |
+
+### B1. Kapitel 12 – Berufliche Anerkennung
+
+| **Nomen:** ||||
+|:---|:---|:---|:---|
+| **der Ablauf, ⸚e** | процесс, ход событий | **die Kontaktlinse, -n** | контактная линза |
+| **die Altenpflege (Sg.)** | уход за пожилыми людьми | **die Krankenpflege (Sg.)** | уход за больными, медицинский уход |
+| **das Arbeitszeugnis, -se** | характеристика с работы, справка о работе | **der Liebeskummer (Sg.)** | любовная тоска, душевная боль |
+| **die Berufswahl (Sg.)** | выбор профессии | **das Merkblatt, ⸚er** | информационный лист, памятка |
+| **die Bescheinigung, -en** | справка, подтверждение | **das Mittel, -** | средство, метод |
+| **die Bildung (Sg.)** | образование | **der Oberbegriff, -e** | общее понятие, категория |
+| **die Bürokratie (Sg.)** | бюрократия | **die Primarschule, -en** | начальная школа |
+| **die Definition, -en** | определение | **die Schönheit (Sg.)** | красота |
+| **das Einzelteil, -e** | отдельная деталь | **die Schulbildung (Sg.)** | школьное образование |
+| **die Fähigkeit, -en** | способность, умение | **die Sekundarschule, -en** | средняя школа |
+| **die Flüssigkeit, -en** | жидкость | **die Sprachkenntnisse (Pl.)** | знание языка, языковые навыки |
+| **das Friseurgeschäft, -e** | парикмахерская | **der Stern, -e** | звезда |
+| **die Gastronomie (Sg.)** | сфера общественного питания, гастрономия | **das Telefonat, -e** | телефонный разговор |
+| **der Geschäftsbrief, -e** | деловое письмо | **die Übersetzung, -en** | перевод |
+| **das Handwerk (Sg.)** | ремесло | **die Verwaltung, -en** | управление, администрация |
+| **der Kellner, - / die Kellnerin, -nen** | официант / официантка | **die Weiterbildung, -en** | повышение квалификации, обучение |
+
+
+| **Verben:** ||||
+|:---|:---|:---|:---|
+| **anpassen** | приспосабливать, адаптировать | **entgegennehmen** | принимать, получать |
+| **auftreten** | выступать, появляться | **frustrieren** | расстраивать, разочаровывать |
+| **auschecken / einchecken** | выписаться / зарегистрироваться | **montieren** | монтировать, собирать |
+| **bewerten** | оценивать | **(sich) orientieren** | ориентироваться |
+| **dokumentieren** | документировать, фиксировать | **stellen (einen Antrag / eine Frage)** | подавать (заявление), задавать (вопрос) |
+| **durchführen** | проводить, выполнять | **zusammenbleiben** | оставаться вместе |
+| **einfallen** | приходить в голову, вспоминаться | **sich zusammensetzen** | собираться, состоять из |
+| **einreichen** | подавать (документы) | **** |  |
+
+
+| **Adjektive:** ||||
+|:---|:---|:---|:---|
+| **beruflich** | профессиональный | **tabellarisch** | в виде таблицы |
+| **kosmetisch** | косметический | **zukünftig** | будущий |
+
+
+| **einander** | друг другу | **Was für ein …?** | Что за …? |
+| **nachdem** | после того как | **zuvor** | ранее, прежде |
+
+### B1. Kapitel 13 – Freiwillig
+
+| **Nomen:** ||||
+|:---|:---|:---|:---|
+| **die Belohnung, -en** | награда, вознаграждение | **die Lampe, -n** | лампа |
+| **der Betreuer, - / die Betreuerin, -nen** | наставник, руководитель / наставница | **der Lenker, -** | руль |
+| **die Bevölkerung, -en** | население | **die Luftpumpe, -n** | насос для воздуха |
+| **der Bürger, - / die Bürgerin, -nen** | гражданин / гражданка | **die Milliarde, -n** | миллиард |
+| **das Ehrenamt, "er** | добровольческая работа, общественная должность | **die Mitarbeit (Sg.)** | сотрудничество, участие |
+| **das Engagement (Sg.)** | активное участие, вовлечённость | **der Reifen, -** | шина |
+| **das Ersatzteil, -e** | запасная деталь | **das Rücklicht, -er** | задний фонарь |
+| **die Feuerwehr, -en** | пожарная служба, пожарная команда | **das Semester, -** | семестр |
+| **die Gesellschaft, -en** | общество | **die Studie, -n** | исследование, научная работа |
+| **das Heim, -e** | дом, приют | **der Übersetzer, - / die Übersetzerin, -nen** | переводчик / переводчица |
+| **die Klingel, -n** | дверной звонок | **die Vertretung, -en** | замещение, представитель |
+| **die Kraft, e** | сила, энергия | **** |  |
+
+
+| **Verben:** ||||
+|:---|:---|:---|:---|
+| **absagen** | отменять, отказывать | **halten (für + A.)** | считать (кем-либо, чем-либо) |
+| **aufpumpen** | накачивать | **kämpfen** | бороться |
+| **auswechseln** | заменять | **(sich) verhalten** | вести себя |
+| **sich bedanken (für + A.)** | благодарить (за что-либо) | **(sich) verlassen (auf + A.)** | полагаться на |
+| **(sich) einsetzen (für + A.)** | выступать за что-либо, активно поддерживать | **verleihen** | присуждать, награждать |
+| **(sich) entwickeln** | развиваться | **(sich) verpflichten (für + A.)** | обязаться, взять на себя обязательство |
+| **erfordern** | требовать | **zusammenkommen** | собираться вместе |
+
+
+| **Adjektive:** ||||
+|:---|:---|:---|:---|
+| **behindert** | с ограниченными возможностями | **jugendlich** | юношеский, молодой |
+| **ehrenamtlich** | добровольный, волонтёрский | **konkret** | конкретный |
+| **gesellschaftlich** | общественный, социальный | **wünschenswert** | желательный |
+
+
+| **allerdings** | однако, правда | **trotz** | несмотря на |
+| **circa (ca.)** | примерно | **voneinander** | друг от друга, между собой |
+| **ebenso** | также, так же | **wegen** | из-за, по причине |
+| **möglichst** | как можно (лучше, быстрее и т.д.) | **** |  |
+
+### B1. Kapitel 14 – Ein neues Zuhause
+
+| **Nomen:** ||||
+|:---|:---|:---|:---|
+| **der Anbieter, -** | поставщик, провайдер, арендодатель | **der Kandidat, -en / die Kandidatin, -nen** | кандидат / кандидатка |
+| **die Aufmerksamkeit (Sg.)** | внимание | **das Klavier, -e** | пианино |
+| **die Aussicht, -en** | вид (из окна, на улицу и т.п.) | **der Komponist, -en / die Komponistin, -nen** | композитор / композиторша |
+| **der Bürgermeister, - / die Bürgermeisterin, -nen** | мэр / мэриня | **die Krippe, -n** | детский сад |
+| **das Car-Sharing (Sg.)** | каршеринг, совместное использование автомобилей | **die Musikschule, -n** | музыкальная школа |
+| **das Einverständnis (Sg.)** | согласие | **der Polizist, -en / die Polizistin, -nen** | полицейский / полицейская |
+| **die Einweihungsparty, -s** | новоселье, вечеринка по случаю переезда | **der Praktikant, -en / die Praktikantin, -nen** | стажёр / стажёрка |
+| **die Etage, -n** | этаж | **der Prozess, -e** | процесс, судебное дело |
+| **das Fahrzeug, -e** | транспортное средство, автомобиль | **die Reportage, -n** | репортаж |
+| **die Folie, -n** | пленка, фольга | **die Rückmeldung, -en** | обратная связь, отзыв |
+| **die Fortsetzung, -en** | продолжение | **der Smog (Sg.)** | смог |
+| **die Gemeinde, -n** | муниципалитет, община | **die Sprachförderung (Sg.)** | поддержка изучения языка, языковое обучение |
+| **das Instrument, -e** | музыкальный инструмент | **die Trompete, -n** | труба (музыкальный инструмент) |
+| **die Integration (Sg.)** | интеграция | **die Wiese, -n** | луг, поляна |
+
+
+| **Verben:** ||||
+|:---|:---|:---|:---|
+| **abrechnen** | рассчитываться, производить расчёт | **(sich) entschließen** | решаться, принимать решение |
+| **anzünden** | зажигать, поджигать | **festlegen** | устанавливать, определять |
+| **beobachten** | наблюдать | **sammeln** | собирать |
+| **bestehen (eine Möglichkeit)** | существовать (о возможности), быть возможным | **(Sport) treiben** | заниматься (спортом) |
+| **drehen (einen Film)** | снимать (фильм) | **verbinden (am Telefon)** | соединять, соединять по телефону |
+
+
+| **Adjektive:** ||||
+|:---|:---|:---|:---|
+| **erschöpft** | измученный, уставший | **motiviert** | мотивированный |
+| **extrem** | экстремальный, крайне | **ruhig** | спокойный |
+| **logisch** | логичный | **witzig** | забавный, смешной |
+
+
+| **bereits** | уже | **teilweise** | частично |
+| **deswegen** | поэтому | **unterdessen** | тем временем |
+| **statt** | вместо | **vorläufig** | предварительно |
+| **sozusagen** | так сказать, условно говоря | **zunächst** | сначала, вначале |
+
+### B1. Kapitel 15 – Weltstadt Wien
+
+| **Nomen:** ||||
+|:---|:---|:---|:---|
+| **der Bahnsteig, -e** | платформа (на вокзале) | **der Nachwuchs (Sg.)** | молодое поколение, потомство |
+| **das Denkmal, -er** | памятник | **die Oper, -n** | опера |
+| **der Dialekt, -e** | диалект | **der Paradeiser, -** | помидор (австр.) |
+| **der Export, -e** | экспорт | **der Pfannkuchen, -** | блин, оладья |
+| **der Fachmann, -"er / die Fachfrau, -en** | специалист / специалистка | **der Saal, Säle** | зал |
+| **die Hauptschule, -n** | основная школа | **der Schlagobers (Sg.) / die Schlagsahne (Sg.)** | взбитые сливки (австр./нем.) |
+| **das Kaffeehaus, -"er** | кафе | **die Staatsbürgerschaft, -en** | гражданство |
+| **das Kunstwerk, -e** | произведение искусства | **der Stadtführer, - / die Stadtführerin, -nen** | экскурсовод / экскурсоводка |
+| **das Lebensmittel, -** | продукты питания | **der Tierpark, -s** | зоопарк |
+| **die Literatur (Sg.)** | литература | **die Tram, -s** | трамвай |
+| **der Migrationshintergrund, -"e** | миграционное прошлое, происхождение | **die Vorführung, -en** | показ, демонстрация |
+| **die Moschee, -n** | мечеть | **das Wahrzeichen, -** | символ города, достопримечательность |
+| **der Mittelpunkt, -e** | центр, середина | **die Weltstadt, -e** | мировой город, метрополис |
+
+
+| **Verben:** ||||
+|:---|:---|:---|:---|
+| **abhängen (von + D.)** | зависеть от чего-либо | **(sich) drehen** | вращаться, крутиться |
+| **annehmen** | принимать | **(sich) freinehmen** | брать отгул, отпуск |
+| **(sich) auskennen (mit + D.)** | ориентироваться, разбираться | **handeln (mit + D.)** | торговать чем-либо |
+| **berücksichtigen** | учитывать, принимать во внимание | **zu tun haben mit** | иметь дело с чем-либо |
+| **(sich) beschränken (auf + A.)** | ограничиваться чем-либо | **umgehen (mit + D.)** | обращаться с чем-либо |
+| **unter sich bleiben** | оставаться в узком кругу | **verurteilen** | осуждать, приговаривать |
+
+
+| **Adjektive:** ||||
+|:---|:---|:---|:---|
+| **alltäglich** | повседневный, обычный | **historisch** | исторический |
+| **exotisch** | экзотический | **touristisch** | туристический |
+
+
+| **diesmal** | в этот раз | **jedoch** | однако, тем не менее |
+| **drüben** | там, по ту сторону | **raus** | наружу |
+| **entlang** | вдоль | **sodass** | так что, таким образом |
+| **hin ... her** | туда и обратно, туда-сюда | **tagsüber** | в течение дня |
+| **irgendwo** | где-то | **tatsächlich** | действительно, фактически |
+| **je ... desto** | чем … тем … | **** |  |
+
+### B1. Kapitel 16 – Hier bleibe ich
+
+| **Nomen:** ||||
+|:---|:---|:---|:---|
+| **das Anliegen, -** | просьба, Anliegen; забота, задача | **das Gesicht, -er** | лицо |
+| **die Ansprache, -n** | речь, обращение | **die Kopie, -n / -ien** | копия |
+| **das Antragsformular, -e** | форма заявления | **der Kopierer, -** | копировальный аппарат |
+| **der Ausländer, - / die Ausländerin, -nen** | иностранец / иностранка | **die Kriminalpolizei (Sg.)** | криминальная полиция |
+| **die Ausnahme, -n** | исключение | **der Migrant, -en / die Migrantin, -nen** | мигрант / мигрантка |
+| **die Auswanderung (Sg.)** | эмиграция | **die Nation, -en** | нация, народ |
+| **die Demokratie, -n / -ien** | демократия | **die Nordsee (Sg.)** | Северное море |
+| **die Einbürgerungsurkunde, -n** | документ о получении гражданства | **die Probezeit, -en** | испытательный срок |
+| **die Einwanderung, -en** | иммиграция | **die Rückmeldung, -en** | обратная связь, ответ |
+| **der EU-Bürger, - / die EU-Bürgerin, -nen** | гражданин / гражданка ЕС | **der Staat, -en** | государство |
+| **die Freiheit, -en** | свобода | **der Stift, -e** | ручка, карандаш |
+| **der Frieden (Sg.)** | мир | **das Wahlrecht (Sg.)** | право голоса |
+| **die Geburtsurkunde, -n** | свидетельство о рождении | **das Zeichen, -** | знак, символ |
+| **das Gesetz, -e** | закон | **** |  |
+
+
+| **Verben:** ||||
+|:---|:---|:---|:---|
+| **abstimmen** | голосовать, согласовывать | **einbürgern** | давать гражданство |
+| **ausbilden** | обучать, готовить к профессии | **gelingen** | удаваться, получаться |
+| **befristen** | ограничивать срок, делать временным | **herausfinden** | выяснять, находить |
+| **besitzen** | владеть, иметь | **(sich etwas) überlegen** | обдумывать, размышлять |
+
+
+| **Adjektive:** ||||
+|:---|:---|:---|:---|
+| **befristet / unbefristet** | временный / бессрочный | **humorvoll / humorlos** | с чувством юмора / без чувства юмора |
+| **englischsprachig / deutschsprachig** | англоязычный / немецкоязычный | **legal / illegal** | легальный / нелегальный |
+| **eindeutig** | однозначный, ясный | **musikalisch / unmusikalisch** | музыкальный / немусикальный |
+| **fest** | твёрдый, постоянный | **völlig** | полностью, совершенно |
+
+
+| **eigentlich** | собственно, на самом деле | **pro … kontra** | за … против |
+| **entweder … oder** | либо … либо | **solange** | пока, до тех пор пока |
+| **normalerweise** | обычно, как правило | **sowohl … als auch** | как … так и |
+| **jetzt oder nie** | сейчас или никогда | **weder … noch** | ни … ни |
+
